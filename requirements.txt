@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+pyarrow
+scikit-learn
+lightgbm
+matplotlib
+plotly
+shap
+jupyterlab
+ipykernel
